@@ -1,0 +1,13 @@
+git init - Cria um repositorio.
+
+git status - Status do repositorio.
+
+git add - Move o repositorio para "stage".
+
+git commit - Faz o commit.
+
+git remote add <origin> <link> - Indica o repositorio do git hub.
+
+git push <origin> master - Joga para o repositorio do git hub.
+
+git pull <origin> master - Pega os arquivos do repositorio.
